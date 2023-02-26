@@ -58,7 +58,6 @@ class _MyHomePageState extends State<MyHomePage> {
            
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            
             const Text(
               'Você tem o botão "+" para incrementar e o botão "-" decrementar:',
             ),
